@@ -1,2 +1,2 @@
-# rusl89-goit-js-hw-04
-JSHW4
+# goit-js-hw-02
+JS HW2
